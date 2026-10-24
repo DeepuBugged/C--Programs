@@ -1,0 +1,4 @@
+# Ignore *.exe
+# Ignore *.o
+# Ignore *.obj
+# Ignore *.pdb
